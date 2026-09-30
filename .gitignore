@@ -1,0 +1,5 @@
+# OS / temp
+Thumbs.db
+.DS_Store
+*.tmp
+*.log
